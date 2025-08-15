@@ -22,6 +22,12 @@ I’m an entry-level QA Engineer eager to keep learning, growing, and contributi
 - Chrome DevTools, Charles Proxy, BrowserStack, ADB
 - SQL basics for data validation; UNIX & Git/GitHub
 
+**Agile workflows**
+- **Scrum:** 2-week sprints, daily stand-ups, backlog refinement, sprint planning, reviews/demos, retrospectives; story point estimating; Definition of Ready/Done; RTM alignment to user stories.
+- **Kanban:** continuous flow, WIP limits, swimlanes, cycle/lead time tracking; prioritizing defects and unblocking work quickly.
+- **Jira:** boards (team/company-managed), sub-tasks & links, basic JQL, dashboards for test coverage and defect trends.
+
+
 **Productivity & Collaboration Tools**
 - Excel Sheets: test data management, reporting, traceability matrices
 - Google Docs: documentation, test plans, collaborative reviews

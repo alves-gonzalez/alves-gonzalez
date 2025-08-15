@@ -2,6 +2,7 @@
 
 **Postman • Cypress • Selenium • SQL**  
 Detail-oriented QA who writes clear test cases, logs bugs reports, and builds reliable UI/API checks. I like turning chaos into calm releases.
+I’m an entry-level QA Engineer eager to keep learning, growing, and contributing to high-quality projects.
 
 ---
 

@@ -48,9 +48,6 @@ I like turning chaos into calm releases. Always eager to keep learning, growing,
 - **Cypress Project Showcase** — End-to-end and component testing, bug reporting, and test case design  
   🔗 [Repo](https://github.com/alves-gonzalez/cypress-project-showcase)  
 
-- **JavaScript Amazon Clone Project** — Amazon website clone using HTML, CSS, and JavaScript. Demonstrates front-end skills, DOM manipulation, and cart/order logic.  
-  🔗 [Repo](https://github.com/alves-gonzalez/JavaScript-amazon-clone-project)  
-
 - **GetTop Selenium (Python + PyTest)** — E2E UI: category navigation, add-to-cart, assertions  
   🔗 [Repo](https://github.com/alves-gonzalez/gettop-selenium-automation)  
 

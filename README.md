@@ -1,4 +1,4 @@
-# Hi, I’m Alves Gonzalez — QA Engineer (Manual + Automation)
+# Hi, I’m Alves Gonzalez — QA Engineer 
 
 Postman • Cypress • Playwright • Selenium • Jasmine • SQL • HTML • CSS • JavaScript
 
